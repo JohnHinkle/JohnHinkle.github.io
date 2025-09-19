@@ -10,12 +10,14 @@ website:
       - href: index.qmd
         text: Home
       - Research.qmd
+      - Publications.qmd
+      
   
 format:
   html:
     theme:
-      light: minty
-      dark: [minty, theme-dark.scss]
+      light: yeti
+      dark: [yeti, theme-dark.scss]
     css: styles.css
     toc: true
 
