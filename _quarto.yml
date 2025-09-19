@@ -1,0 +1,27 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Lever Lab"
+  open-graph: true
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - People.qmd
+      - Research.qmd
+      - Publications.qmd
+      - Outreach.qmd
+      - Join.qmd
+  
+format:
+  html:
+    theme:
+      light: minty
+      dark: [minty, theme-dark.scss]
+    css: styles.css
+    toc: true
+
+editor: visual
+
