@@ -3,17 +3,13 @@ project:
   output-dir: docs
 
 website:
-  title: "Lever Lab"
+  title: "John Hinkle"
   open-graph: true
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - People.qmd
       - Research.qmd
-      - Publications.qmd
-      - Outreach.qmd
-      - Join.qmd
   
 format:
   html:
