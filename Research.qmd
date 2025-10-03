@@ -2,4 +2,18 @@
 title: "Research"
 ---
 
-Research
+**(Bio?)Geochemistry of martian hydrothermal systems**
+
+description
+
+**Diffuse flow of deeply-sourced hydrothermal fluids**
+
+description
+
+**Sulfur-cycling in hydrothermal sediments**
+
+description
+
+**Methane cycling in the deep subsurface**
+
+description
